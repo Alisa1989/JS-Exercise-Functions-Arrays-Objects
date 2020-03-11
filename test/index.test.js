@@ -233,6 +233,3 @@ describe("STRETCH: carMaker()", () => {
 ////// STUDENTS: DO NOT MODIFY THIS FILE //////
 ////// STUDENTS: DO NOT MODIFY THIS FILE //////
 
-// How does someone even start?
-
-//ES6 arrow syntax?
